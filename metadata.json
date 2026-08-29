@@ -1,0 +1,6 @@
+{
+  "name": "Molla Electronics",
+  "description": "মোল্লা ইলেকট্রনিক্স এর মোবাইল ও ইলেকট্রনিক্স দোকান ওয়েবসাইট এবং সম্পূর্ণ স্টক ও ইনভয়েস ম্যানেজমেন্ট সিস্টেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
